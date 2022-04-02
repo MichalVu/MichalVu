@@ -7,7 +7,7 @@
 - 
 - 💞️ I would like to collaborate on anything that will improve my skills - especially in the domain of C#/C++ or API's.
 - 
-- 📫 How to reach me ...
+- 📫 For now, you can reach me here..
 
 <!---
 MichalVu/MichalVu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
